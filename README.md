@@ -1,6 +1,6 @@
 # JVM TI tools
 
-> This fork contains compiled libs for darwin (macOS):  
+> This fork contains compiled(jdk11) libs for darwin(macOS):  
 >      
 > compiled-libs/antimodule.dylib    
 > compiled-libs/heapsampler.dylib   
