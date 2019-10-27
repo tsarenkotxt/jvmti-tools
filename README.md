@@ -1,5 +1,12 @@
 # JVM TI tools
 
+> This fork contains compiled libs for darwin (macOS):  
+>      
+> compiled-libs/antimodule.dylib    
+> compiled-libs/heapsampler.dylib   
+> compiled-libs/richNPE.dylib   
+> compiled-libs/vmtrace.dylib   
+
 Collection of small Java serviceability improvements based on
 [JVM Tool Interface](https://docs.oracle.com/en/java/javase/11/docs/specs/jvmti.html).
 
